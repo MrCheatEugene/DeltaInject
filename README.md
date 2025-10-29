@@ -1,7 +1,10 @@
 # DeltaInject
 A proof of concept app, that injects into Deltarune's RAM, and replaces dialogs. 
 Tested on Chapter 4, Windows 10, Deltarune 17.
-Reset `minPageOffset` to 0x0, find the first page offset ()
+Reset `minPageOffset` to 0x0, find the first page offset, and set it to your actual offset before usage.
+Build in releases is using my offset, which may change over time.
+
+[Demo here](https://youtu.be/smzRaJiVT1c)
 
 # Information about pages
 I don't know how they work. 
